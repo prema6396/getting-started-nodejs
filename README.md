@@ -5,7 +5,7 @@
 
 This application uses the `node` container obtained from the [Docker Hub](https://hub.docker.com/_/node/)
 
-## Setup
+### Setup
 lone this repo and cd into the directory:
 
 ```
